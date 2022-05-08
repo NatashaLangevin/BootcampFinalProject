@@ -1,4 +1,4 @@
-A Sporify-type website showcasing Led Zeppelin, enabling users to sign in with their Spotify account to search for and listen to songs by Led Zeppelin, post comments and browse a photo gallery of the band.
+A Spotify-type website showcasing Led Zeppelin, enabling users to sign in with their Spotify account to search for and listen to songs by Led Zeppelin, post comments and browse a photo gallery of the band.
 
 
 # Getting Started with Create React App
